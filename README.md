@@ -1,0 +1,2 @@
+# FlagScraper
+Scrape+crop flags
